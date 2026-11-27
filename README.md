@@ -26,15 +26,15 @@ A collection of **10 practical Python case studies** solved as part of the Activ
 | Case No. | Q. No. | Case Study Title | Script File | Core Concepts Used |
 | :---: | :---: | :--- | :--- | :--- |
 | 1 | Q1 | University Scholarship Allocation | | Tuples, nested-loop sorting, tie-breaking logic |
-| 2 | Q2 | Progressive Electricity Billing | [`case_02_electricity_billing.py`](./case_02_electricity_billing.py) | Multi-slab conditionals, sequential comparison |
-| 3 | Q6 | Railway Fare and Reservation Calculator | [`case_03_railway_fare.py`](./case_03_railway_fare.py) | Nested branching, concessions, revenue tracking |
-| 4 | Q13 | ATM Transaction Sequence Simulation | [`case_04_atm_simulation.py`](./case_04_atm_simulation.py) | State management, validation rules, audit logs |
-| 5 | Q27 | Advanced Numeric Pattern Generator | [`case_05_numeric_pattern.py`](./case_05_numeric_pattern.py) | Input validation, nested loops, geometric spacing |
-| 6 | Q29 | Password Policy Validation Engine | [`case_06_password_validation.py`](./case_06_password_validation.py) | Character scanning, triplet checks, substring checks |
-| 7 | Q31 | String-Based Examination Answer Evaluation | [`case_07_exam_evaluation.py`](./case_07_exam_evaluation.py) | Index-wise comparison, negative marking, statistics |
-| 8 | Q35 | Text Compression Using Character Runs | [`case_08_text_compression.py`](./case_08_text_compression.py) | Run-Length Encoding (RLE), compression analysis |
-| 9 | Q43 | Multi-Branch Sales Matrix Comparison | [`case_09_sales_matrix.py`](./case_09_sales_matrix.py) | 3D nested lists, multi-level aggregation |
-| 10 | Q48 | Tuple-Based Employee Shift Conflict Detection | [`case_10_shift_conflicts.py`](./case_10_shift_conflicts.py) | Tuple unpacking, pairwise interval overlap checks |
+| 2 | Q2 | Progressive Electricity Billing | | Multi-slab conditionals, sequential comparison |
+| 3 | Q6 | Railway Fare and Reservation Calculator | | Nested branching, concessions, revenue tracking |
+| 4 | Q13 | ATM Transaction Sequence Simulation || State management, validation rules, audit logs |
+| 5 | Q27 | Advanced Numeric Pattern Generator |  | Input validation, nested loops, geometric spacing |
+| 6 | Q29 | Password Policy Validation Engine || Character scanning, triplet checks, substring checks |
+| 7 | Q31 | String-Based Examination Answer Evaluation | | Index-wise comparison, negative marking, statistics |
+| 8 | Q35 | Text Compression Using Character Runs | | Run-Length Encoding (RLE), compression analysis |
+| 9 | Q43 | Multi-Branch Sales Matrix Comparison |  | 3D nested lists, multi-level aggregation |
+| 10 | Q48 | Tuple-Based Employee Shift Conflict Detection |  | Tuple unpacking, pairwise interval overlap checks |
 
 ---
 
