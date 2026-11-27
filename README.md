@@ -23,7 +23,7 @@ A collection of **10 practical Python case studies** solved as part of the Activ
 
 ## Case Studies Overview
 
-| Case No. | Q. No. | Case Study Title | Script File | Core Concepts Used |
+| Case No. | Q. No. | Case Study Title |  | Core Concepts Used |
 | :---: | :---: | :--- | :--- | :--- |
 | 1 | Q1 | University Scholarship Allocation | | Tuples, nested-loop sorting, tie-breaking logic |
 | 2 | Q2 | Progressive Electricity Billing | | Multi-slab conditionals, sequential comparison |
