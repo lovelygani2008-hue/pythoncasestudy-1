@@ -25,7 +25,7 @@ A collection of **10 practical Python case studies** solved as part of the Activ
 
 | Case No. | Q. No. | Case Study Title | Script File | Core Concepts Used |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | Q1 | University Scholarship Allocation | [`case_01_scholarship_allocation.py`](./case_01_scholarship_allocation.py) | Tuples, nested-loop sorting, tie-breaking logic |
+| 1 | Q1 | University Scholarship Allocation | | Tuples, nested-loop sorting, tie-breaking logic |
 | 2 | Q2 | Progressive Electricity Billing | [`case_02_electricity_billing.py`](./case_02_electricity_billing.py) | Multi-slab conditionals, sequential comparison |
 | 3 | Q6 | Railway Fare and Reservation Calculator | [`case_03_railway_fare.py`](./case_03_railway_fare.py) | Nested branching, concessions, revenue tracking |
 | 4 | Q13 | ATM Transaction Sequence Simulation | [`case_04_atm_simulation.py`](./case_04_atm_simulation.py) | State management, validation rules, audit logs |
